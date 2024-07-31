@@ -1,8 +1,6 @@
-## Hi there 👋
+## नमस्ते (Namaste), I am Tanish 
+- 🔭 I’m currently working on something cool
 
-**tanishq507/tanishq507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanishqb/) 
@@ -18,8 +16,4 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=tanishq507&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning Go
-- 💬 Ask me about Dart/Firebase/flask
-- 📫 How to reach me: https://www.linkedin.com/in/tanishqb/
-- 😄 Pronouns: He/him
+
